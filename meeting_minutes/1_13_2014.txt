@@ -1,0 +1,23 @@
+Meeting with Sam Fineberg
+Date: 1/13/2014
+
+API still waiting for approval. When is target?
+If we can show it working it would be fine for us.
+Approval not done since no one doing the work.
+Where we come in.
+
+Lincoln will be on call next week. 
+Technical question on how to implement. 2 options proposed in API
+Should email Lincoln for to ask pros/cons.
+
+Sam to come to Santa Cruz possibly next week.
+Wednesday? 11?
+
+Code review on swift project = Garret
+
+Hong Kong Summit Presentation
+
+TODO: Get Swift running
+Look at source, see what we have to modify.
+Send possible tech questions.
+Set next weeks meeting up. 
