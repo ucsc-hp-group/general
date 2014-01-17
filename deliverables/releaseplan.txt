@@ -5,3 +5,30 @@ High level goals:
     Implement the Object Storage Metadata Search (OSMS) API 
     to the OpenStack Swift architecture
     
+Sprint 1:
+    
+    As a dev I want to fork the swift project, and set up our
+    dedicated machines in the lab.
+    
+    As a dev I want to study swift so I can understand how the
+    relevant implementation works.
+    
+    As a dev I want to choose between the implementation methods
+    proposed by the original author of the API (internal/external)
+    
+    As a user I want an implementation of a basic API call (\get)
+    to show I can access the metadata and http header info
+    
+Sprint 2:
+    
+    As a user I want an implementation of the method chosen in
+    Sprint 1.
+    
+    As a user, I want to access the simplest API call to retrieve
+    metadata.
+    
+Sprint 3:
+    
+    As a user I want to be able to filter by attributes.
+    
+    As a user I want to be able to add queries to the API call.
