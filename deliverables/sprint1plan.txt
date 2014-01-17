@@ -1,0 +1,40 @@
+HP Group - OSMS API
+End date: February 7
+Sprint 1 Plan
+
+Goal:
+    Learn the swift implementation, and how we can put our API into it.
+    Make general design decisions for the rest of the project.
+    
+User Stories/Tasks
+    Story1: As a dev I want to fork the swift project, and set up our
+    dedicated machines in the lab.
+    
+        -Task1: Fork swift project (1 hr)
+        -Task2: Set Up dev machines in lab. (4 hr)
+    
+    Story2: As a dev I want to study swift so I can understand how the
+    relevant implementation works.
+    
+        -Task1: Each person work on learning the existing API calls
+                for adding objects and using HTTP requests/headers
+                to interface with Swift. (3 hr/person = 21)
+        -Task2: Read through relevant source code for Swift. (4 hr/person = 28)
+    
+    Story3: As a dev I want to choose between the implementation methods
+    proposed by the original author of the API (internal/external)
+    
+        -Task1: As a team meet/talk with Sam and/or Lincoln
+                to talk technical specifics (4hr) (technically per person, but in class time)
+        -Task2: As a team plan and make design decisions. (1 hr/person)
+    
+    Story4: As a user I want to be able to put the API version header in
+    and API call.
+    
+        -Task1: Be able to receive API version number. (2 hr)
+    
+    Story5: As a user I want an implementation of a basic API call (\get)
+    to show I can access the metadata and http header info
+    
+        -Task1: Implement the basic structure for receiving API calls as HTTP request. (2hr/person)
+        
