@@ -1,0 +1,7 @@
+HP Group
+Release Plan
+
+High level goals:
+    Implement the Object Storage Metadata Search (OSMS) API 
+    to the OpenStack Swift architecture
+    
