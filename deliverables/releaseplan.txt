@@ -24,11 +24,11 @@ Sprint 1:
     
 Sprint 2:
     
-    As a user I want an implementation of the method chosen in
-    Sprint 1. (34)
+    As a developer, I want a metadata server with a database. (34)
     
-    As a user, I want to access the simplest API call to retrieve
-    metadata. (13)
+    As a developer, I want crawler daemons to get metadata. (55)
+    
+    As a developer, I want test cases. (5)
     
 Sprint 3:
     
