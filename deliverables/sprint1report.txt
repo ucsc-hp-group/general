@@ -1,0 +1,64 @@
+Sprint Report Format
+
+Company: HP
+Product: HP OSM Swift API 
+Date: 2/10/2014
+Team Name: Swift Cluster Posse
+Team Members: Radhika Mitra, Nathan Rogers, Thomas White, Masahiro Obuchi, Nicholas Wood, Hon Loong Ho, Xiaoyuan Lu
+
+Actions to stop doing:
+
+      1. Stop straying from subject at hand
+
+Actions to start doing:
+
+Distribute tasks and goals to all members in each meeting
+
+Actions to keep doing:
+
+Keep up the great team dynamic
+Everyone is self-driven 
+Consistent communication from team members & mentor
+
+Completed:
+
+The following are the user stories/task that are complete: 
+
+  User  Story 1: As a dev I want to fork the swift project, and set up our
+    dedicated machines in the lab.
+    
+        -Task 1: Fork swift project (1 hr)
+        -Task 2: Set Up dev machines in lab. (4 hr)
+    
+    User Story 2: As a dev I want to study swift so I can understand how the
+    relevant implementation works.
+    
+        -Task 1: Each person work on learning the existing API calls
+                for adding objects and using HTTP requests/headers
+                to interface with Swift. (3 hr/person = 21)
+        -Task 2: Read through relevant source code for Swift. (4 hr/person = 28)
+    
+    User Story 3: As a dev I want to choose between the implementation methods
+    proposed by the original author of the API (internal/external)
+    
+        -Task 1: As a team meet/talk with Sam and/or Lincoln
+                to talk technical specifics (4hr) (technically per person, but in class time)
+        -Task 2: As a team plan and make design decisions. (1 hr/person)
+        - Task 3: Design document
+    
+  User  Story 4: As a user I want to be able to put the API version header in
+    and API call.
+    
+        -Task 1: Be able to receive API version number. (2 hr)
+    
+  User  Story 5: As a user I want an implementation of a basic API call (\get)
+    to show I can access the metadata and http header info
+    
+        -Task 1: Implement the basic structure for receiving API calls as HTTP request. (2hr/person)
+        
+
+Not Completed:
+
+Everything was completed that was set out to be done during Sprint 1.
+
+
