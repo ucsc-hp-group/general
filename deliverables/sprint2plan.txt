@@ -1,0 +1,29 @@
+Team: Swift Clust Posse
+Project: OSMS API
+Start Data: 2/10/2014
+End Data: 2/26/2014
+Sprint 2
+========
+
+As a developer, I want a metadata server with a database.
+
+  Task 1: server.py to accept metadata from crawlers (7 hr mobbed)
+  Task 2: Define database schema (7 hr per person/meeting)
+  Task 3: create database to store metadata. (4 hr)
+  
+As a developer, I want crawler daemons to get metadata.
+
+  Task 0: figure out how to determine if metadata has changed. (10 hr per person)
+  Task 1: Object crawler - walk through files and collect metadata (6 hr)
+  Task 2: Container crawler - walk through databases and collect metadata (6 hr)
+  Task 3: Account crawler - walk through databases and collect metadata (6 hr)
+  Task 4: Send off metadata to metadata server (6 hr)
+  Task 5: Send only metadata that has changed. (10 hr)
+  
+As a developer, I want test cases.
+
+  Task 1: server.py (2 hr)
+  Task 2: replicator.py (2 hr)
+  Task 3: obj-meta-crawler.py (2 hr)
+  Task 4: cont-meta-crawler.py (2 hr)
+  Task 5: acc-meta-crawler.py (2 hr)
