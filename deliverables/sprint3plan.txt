@@ -1,0 +1,33 @@
+Sprint 3:
+
+    As a user I want to be able to filter by attributes.
+        Task 1: SQL queries for specific attributes on Acc/Con/Obj (4hr)
+        Task 2: Superset attributes (4hr)
+        Task 3: Handle custom metadata (3 hrs)
+    
+    As a user I want to be able to add ?queries=<> to the API call.
+        Task 1: Parse queries from API to SQL (2 hrs)
+        Taks 2: Handle complex logic (multiple AND/ORs/()'s) (6 hrs)
+        Task 3: Handle custom metadata (3 hrs)
+        
+    As a user I want the results of my query to be sorted because I like order in my life.
+        Task 1: convert sort attributes to correct SQL (4 hrs)
+        Task 2: Sort by attrs by getting attributes not returned (2 hrs)
+        Task 3: Handle custom metadata (3 hrs)
+    
+    As a user I want to limit results by filepath so I can get specific results.
+        Task 1: Correctly parse scope into SQL (4 hrs)
+        
+    As a user I want to change the output format so many things(such as toasters) will understand the table results.
+        Task 1: Function to convert Dict to plaintext (2 hrs)
+        Task 2: Function to convert Dict to xml (2 hrs)
+        
+    As a developer, I want test cases.
+        Task 1: server.py (2 hr)
+        Task 2: replicator.py (2 hr)
+        Task 3: obj-meta-crawler.py (2 hr)
+        Task 4: cont-meta-crawler.py (2 hr)
+        Task 5: acc-meta-crawler.py (2 hr)
+        Task 6: test all queries cases (6 hr)
+
+55 hours total
