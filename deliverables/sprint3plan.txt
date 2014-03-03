@@ -1,4 +1,10 @@
-Sprint 3:
+Sprint 3 Plan
+
+Company: HP
+Product: HP OSM Swift API
+Completion Date: 3/3/2014
+Team Name: Swift Cluster Posse
+Team Members: Radhika Mitra, Nathan Rogers, Thomas White, Masahiro Obuchi, Nicholas Wood, Hon Loong Ho, Xiaoyuan Lu
 
     As a user I want to be able to filter by attributes.
         Task 1: SQL queries for specific attributes on Acc/Con/Obj (4hr)
