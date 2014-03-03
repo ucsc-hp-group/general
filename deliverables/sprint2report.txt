@@ -1,0 +1,61 @@
+Sprint Report 2 
+
+Company: HP
+Product: HP OSM Swift API
+Completion Date: 3/3/2014
+Team Name: Swift Cluster Posse
+Team Members: Radhika Mitra, Nathan Rogers, Thomas White, Masahiro Obuchi, Nicholas Wood, Hon Loong Ho, Xiaoyuan Lu
+
+Actions to stop doing:
+
+      None (currently our team is focused and working well) 
+ 
+Actions to start doing:
+
+Unit testing throughout development
+Put names on sticky notes so we can give credit after sprint
+
+Actions to keep doing:
+
+Everyone is self-driven
+Peer programming
+Keep up the great team dynamic
+Consistent communication from team members & mentor
+
+Completed:
+
+The following are the user stories/task that are complete:
+
+ User  Story 1: As a developer, I want a metadata server with a database.
+
+ Task 1: server.py to accept metadata from crawlers (7 hr mobbed)
+ Task 2: Define database schema (7 hr per person/meeting)
+ Task 3: create database to store metadata. (4 hr)
+
+  User Story 2: As a developer, I want crawler daemons to get metadata.
+
+ Task 1: figure out how to determine if metadata has changed. (10 hr per person)
+ Task 2: Object crawler - walk through files and collect metadata (6 hr)
+ Task 3: Container crawler - walk through databases and collect metadata (6 hr)
+ Task 4: Account crawler - walk through databases and collect metadata (6 hr)
+ Task 5: Send off metadata to metadata server (6 hr)
+
+Not Completed:
+
+The following are user stories are in progress and near completion, however, when tested some tasks failed. As developers  we will work on handling the errors and creating functional versions.
+
+User Story 2: As a developer, I want crawler daemons to get metadata.
+ 
+ Task 6: Send only metadata that has changed
+
+User Story 3: As a developer, I want test cases.
+
+ Task 1: server.py (2 hr)
+ Task 2: replicator.py (2 hr)
+ Task 3: obj-meta-crawler.py (2 hr)
+ Task 4: cont-meta-crawler.py (2 hr)
+ Task 5: acc-meta-crawler.py (2 hr)
+
+
+
+
