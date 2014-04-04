@@ -1,0 +1,41 @@
+HP Group
+OSMS API
+Release Plan
+Updated 4/4/2014
+
+Sprint 4:
+Goal: Added features crucial to final product and to increase efficancy of implentation.
+
+Story 1: As a User, I want the Service API request so that I can see the Implementation's version and supported attributes.
+
+Story 2: As a User, I want the metadata crawlers to only send updataed information to conserve bandwidth and make system more scalable.
+
+Story 3: As a User, I want the proxy middle where to update the timestamps so that the information is more accurate and the crawler can run slower.
+
+Story 4: As a User, I want the custom account metadata to be loaded into the server so that it can be retrieved.
+
+Story 5: As a User, I want to be able to select attribute by supersets so that selections are easier.
+
+Story 6: As a Administarator, I want the queries to be sanitaized to the dartabase is safe.
+
+Story 7: As a User, I want to be able to sort results by an attribute or several attributes.
+
+Story 8: As a User, I want to be able to select an output format so that I can use the results easier.
+
+Story 9: As a Developer, I want the metadata server to populate the database with calculated values so the spec can be matched.
+
+Sprint 5:
+Goal: Final features implementation and polish for delivery.
+
+Story 1: Polish/Complete test case coverage.
+
+Story 2: Polish/Complete documentation.
+
+Story 3: Polish Code/Comments.
+
+Backlog:
+API requests: Path, Prefix, Delimiter, Regular Expression Query, Pagination
+Authorized Searchers
+CORS metadata
+Replication/Redundency.
+
