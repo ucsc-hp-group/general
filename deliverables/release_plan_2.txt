@@ -27,15 +27,16 @@ Story 9: As a Developer, I want the metadata server to populate the database wit
 Sprint 5:
 Goal: Final features implementation and polish for delivery.
 
-Story 1: Polish/Complete test case coverage.
+Story 1: As a groupmember I want a Poster/presentation so that I can pass this class.
 
-Story 2: Polish/Complete documentation.
+Story 2: As a Dev., I want to Polish/Complete test case coverage so that the swift team will accept our code.
 
-Story 3: Polish Code/Comments.
+Story 3: As a Dev., I want to Polish/Complete documentation so that is is more mantainable.
+
+Story 4: As a Dev., I want to Polish Code/Comments so that the swift team will accept our code.
 
 Backlog:
 API requests: Path, Prefix, Delimiter, Regular Expression Query, Pagination
 Authorized Searchers
 CORS metadata
 Replication/Redundency.
-
