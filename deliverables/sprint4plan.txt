@@ -1,0 +1,59 @@
+HP Group
+OSMS API
+Sprint 4 Plan
+Created: 4/4/2014
+
+Goal: Added features crucial to final product and to increase efficancy of implentation.
+
+Story 1: As a User, I want the Service API request so that I can see the Implementation's version and supported attributes.
+
+  Task1: Implement attribute list and can_sort_by (3)
+  Task2: Implement versioning (2)
+  Task3: Testing (2)
+
+Story 2: As a User, I want the metadata crawlers to only send updataed information to conserve bandwidth and make system more scalable.
+
+  Task1: Add timestamp intervals to crawlers (3)
+  Task2: Add database side checking to make sure timestamps only go up (1)
+  Task3: Testing (2)
+
+Story 3: As a User, I want the proxy middle where to update the timestamps so that the information is more accurate and the crawler can run slower.
+
+  Task1: Scrape appropriate timestamps off all requests (3)
+  Task2: Send this data to metadata server (1)
+  Task3: Testing (2)
+
+Story 4: As a User, I want the custom account metadata to be loaded into the server so that it can be retrieved.
+
+  Task1: Handle custom attributes for accounts (2)
+  Task2: Testing (2)
+
+Story 5: As a User, I want to be able to select attribute by supersets so that selections are easier.
+
+  Task1: Add attrs to attr list before breaking apart (3)
+  Task2: Testing (2)
+
+Story 6: As a Administarator, I want the queries to be sanitaized to the dartabase is safe.
+
+  Task1: Reasearch SQL sanitation libraries (2)
+  Task2: Sanitize and error if not recoverable (4)
+  Task3: Testing (2)
+
+Story 7: As a User, I want to be able to sort results by an attribute or several attributes.
+
+  Task1: Sort by multiple attrs (4)
+  Task2: Testing (2)
+  Task3: Sort by attrs not returned (2)
+
+Story 8: As a User, I want to be able to select an output format so that I can use the results easier.
+
+  Task1: function for converting dict to plaintext (2)
+  Task2: funcrtion to convert dict to xml (2)
+  Task3: Testing (2)
+
+Story 9: As a Developer, I want the metadata server to populate the database with calculated values so the spec can be matched.
+
+  Task1: Handle partial data sets (3)
+  Task2: Handle object_location (2)
+  Task3: Testing (2)
+
