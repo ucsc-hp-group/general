@@ -1,7 +1,8 @@
 HP Group
 OSMS API
-Release Plan
-Updated 4/4/2014
+Release Plan 2 - v2
+Updated 4/21/2014
+Release date: 5/28
 
 Sprint 4:
 Goal: Added features crucial to final product and to increase efficancy of implentation.
