@@ -1,6 +1,6 @@
 HP Group
 OSMS API
-Sprint 4 Plan - v1
+Sprint 4 Plan - v2
 Updated: 4/21/2014
 
 Scrum Meeting times:
