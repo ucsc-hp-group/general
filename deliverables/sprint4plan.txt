@@ -1,9 +1,14 @@
 HP Group
 OSMS API
-Sprint 4 Plan
-Created: 4/4/2014
+Sprint 4 Plan - v1
+Updated: 4/21/2014
 
-Goal: Added features crucial to final product and to increase efficancy of implentation.
+Scrum Meeting times:
+  Mondays: 9:45 (with TA)
+  Wednesday: 11:00
+  Friday: 11:00
+
+Sprint Goal: Add features crucial to final product and to increase efficancy of implentation.
 
 NR = Nathan
 TW = Thomas
