@@ -1,7 +1,7 @@
 HP Group
 OSMS API
-Sprint 4 Plan - v2
-Updated: 4/21/2014
+Sprint 4 Plan - v3
+Updated: 4/28/2014
 
 Scrum Meeting times:
   Mondays: 9:45 (with TA)
@@ -10,11 +10,11 @@ Scrum Meeting times:
 
 Sprint Goal: Add features crucial to final product and to increase efficancy of implentation.
 
-NR = Nathan
-TW = Thomas
-M = Masahiro
-X = Xioa Yuan
-R = Radhika
+NR = Nathan (Scrum Master/Design/Dev)
+TW = Thomas (Liason/Design/Dev)
+M = Masahiro (Design/Dev)
+X = Xioa Yuan (Design/Dev)
+R = Radhika (Design/Dev)
 G = Group
 
 Story 1: As a User, I want the Service API request so that I can see the Implementation's version and supported attributes.
