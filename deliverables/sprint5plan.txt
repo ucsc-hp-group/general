@@ -27,7 +27,7 @@ Story 2: As a Dev., I want to Polish/Complete test case coverage so that the swi
 
   Task1: backend.py (6) (G)
   Task2: crawlers: (4) (NR)
-  Task3: update test cases to send format=json (1) (G)
+  Task3: update test cases to send format=json (1) (M)
 
 Story 3: As a Dev., I want to Polish/Complete documentation so that is is more mantainable. (10)
 
@@ -37,11 +37,12 @@ Story 3: As a Dev., I want to Polish/Complete documentation so that is is more m
   
 Story 4: As a Dev., I want to Polish Code/Comments so that the swift team will accept our code. (10)
   
-  Task1: server.py (3) (G)
+  Task1: server.py (3) (TJ/M)
   Task2: backend.py (3) (G)
   Task3: crawlers (2) (G)
-  Task4: sort/output (3) (G)
-  Task5: Review variable/file/location names (3) (G)
+  Task4: sort (2) (G)
+  Task5: output (2) (M)
+  Task6: Review variable/file/location names (3) (G)
 
 Story 5: As a Administrator, I want the queries to be sanitized to the database is safe. (10)
 
