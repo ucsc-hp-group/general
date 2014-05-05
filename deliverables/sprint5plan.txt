@@ -1,0 +1,57 @@
+HP Group
+OSMS API
+Sprint 5 Plan - v1
+Updated: 5/5/2014
+
+Scrum Meeting times:
+  Mondays: 9:45 (with TA)
+  Wednesday: 11:00
+  Friday: 11:00
+
+Sprint Goal: Final features implementation and polish for delivery.
+
+NR = Nathan (Scrum Master/Design/Dev)
+TW = Thomas (Liason/Design/Dev)
+M = Masahiro (Design/Dev)
+X = Xioa Yuan (Design/Dev)
+R = Radhika (Design/Dev)
+G = Group
+
+
+Story 1: As a groupmember I want a Poster/presentation so that I can pass this class. (25)
+  
+  Task1: Draft2 (2) (G)
+  Task2: Draft3 (2) (G)
+
+Story 2: As a Dev., I want to Polish/Complete test case coverage so that the swift team will accept our code. (10)
+
+  Task1: backend.py (6) (G)
+  Task2: crawlers: (4) (NR)
+  Task3: update test cases to send format=json (1) (G)
+
+Story 3: As a Dev., I want to Polish/Complete documentation so that is is more mantainable. (10)
+
+  Task1: complete overview, and installation instructions (2) (G)
+  Task2: document features that we have implemented (2) (G)
+  Task3: document features we have not implemented (2) (G)
+  
+Story 4: As a Dev., I want to Polish Code/Comments so that the swift team will accept our code. (10)
+  
+  Task1: server.py (3) (G)
+  Task2: backend.py (3) (G)
+  Task3: crawlers (2) (G)
+  Task4: sort/output (3) (G)
+  Task5: Review variable/file/location names (3) (G)
+
+Story 5: As a Administrator, I want the queries to be sanitized to the database is safe. (10)
+
+  Task1: Research SQL sanitation libraries (2) (NR/TJ)
+  Task2: Sanitize and error if not recoverable (4) (NR/TJ)
+  Task3: Testing (2) (NR/TJ)
+  
+  
+  
+  
+  
+  
+  
