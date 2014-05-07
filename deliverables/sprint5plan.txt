@@ -13,7 +13,7 @@ Sprint Goal: Final features implementation and polish for delivery.
 NR = Nathan (Scrum Master/Design/Dev)
 TW = Thomas (Liason/Design/Dev)
 M = Masahiro (Design/Dev)
-X = Xioa Yuan (Design/Dev)
+X = Xiao Yuan (Design/Dev)
 R = Radhika (Design/Dev)
 G = Group
 
@@ -40,7 +40,7 @@ Story 4: As a Dev., I want to Polish Code/Comments so that the swift team will a
   Task1: server.py (3) (TJ/M)
   Task2: backend.py (3) (G)
   Task3: crawlers (2) (G)
-  Task4: sort (2) (G)
+  Task4: sort (2) (X/R)
   Task5: output (2) (M)
   Task6: Review variable/file/location names (3) (G)
 
