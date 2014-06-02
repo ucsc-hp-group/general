@@ -1,0 +1,84 @@
+Company: HP
+
+OSMS API
+
+Sprint 5 Report: v1 
+
+6/2/2014 
+
+ 
+
+Scrum Meeting times: 
+
+  Mondays: 9:45 (with TA) 
+
+  Wednesday: 11:00 
+
+  Friday: 11:00 
+
+ 
+
+NR = Nathan 
+
+TW = Thomas 
+
+M = Masahiro 
+
+X = Xioa Yuan
+
+R = Radhika 
+
+G = Group 
+
+Actions to stop doing: 
+  None (currently our team is focused and working well) 
+
+Actions to start doing: 
+
+Actions to keep doing:
+  Everyone is self­driven 
+  Keep up the great team dynamic 
+  Peer programming 
+  Consistent communication from team members & mentor 
+
+ 
+Completed: 
+The following are the user stories/task that are complete: 
+
+Story 1: As a groupmember I want a Poster/presentation so that I can pass this class. (25)
+  Task1: Draft2 (2) (G)
+  Task2: Draft3 (2) (G)
+
+Story 2: As a Dev., I want to Polish/Complete test case coverage so that the swift team will accept our code. (10)
+
+  Task1: backend.py (6) (G)
+  Task2: crawlers: (4) (NR)
+  Task3: update test cases to send format=json (1) (M)
+
+Story 3: As a Dev., I want to Polish/Complete documentation so that is is more mantainable. (10)
+
+  Task1: complete overview, and installation instructions (2) (G)
+  Task2: document features that we have implemented (2) (G)
+  Task3: document features we have not implemented (2) (G)
+  
+Story 4: As a Dev., I want to Polish Code/Comments so that the swift team will accept our code. (10)
+  
+  Task1: server.py (3) (TJ/M)
+  Task2: backend.py (3) (G)
+  Task3: crawlers (2) (G)
+  Task4: sort (2) (X/R)
+  Task5: output (2) (M)
+  Task6: Review variable/file/location names (3) (G)
+
+Story 5: As a Administrator, I want the queries to be sanitized to the database is safe. (10)
+
+  Task1: Research SQL sanitation libraries (2) (NR/TJ)
+  Task2: Sanitize and error if not recoverable (4) (NR/TJ)
+  Task3: Testing (2) (NR/TJ)
+  
+Story 6: As a user I want queries to work with custom attributes so i can get data. (10)
+
+  Task1: Research possiblity (2) (NR)
+  Task1: Implement (2) (NR/TJ)
+
+Not Completed (Backlog) 
